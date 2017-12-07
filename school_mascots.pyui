@@ -1,0 +1,103 @@
+[
+  {
+    "class" : "View",
+    "attributes" : {
+      "background_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)",
+      "tint_color" : "RGBA(0.000000,0.478000,1.000000,1.000000)",
+      "enabled" : true,
+      "border_color" : "RGBA(0.000000,0.000000,0.000000,1.000000)",
+      "flex" : ""
+    },
+    "frame" : "{{0, 0}, {540, 540}}",
+    "selected" : false,
+    "nodes" : [
+      {
+        "class" : "Label",
+        "attributes" : {
+          "font_size" : 18,
+          "text" : "",
+          "font_name" : "<System>",
+          "name" : "school_name_label",
+          "class" : "Label",
+          "alignment" : "center",
+          "frame" : "{{195, 254}, {150, 32}}",
+          "uuid" : "D76F684F-8797-4E5C-A500-987FCA26E12F"
+        },
+        "frame" : "{{0, 258}, {540, 32}}",
+        "selected" : true,
+        "nodes" : [
+
+        ]
+      },
+      {
+        "class" : "Label",
+        "attributes" : {
+          "font_size" : 18,
+          "text" : "",
+          "font_name" : "<System>",
+          "name" : "mascot_label",
+          "class" : "Label",
+          "alignment" : "center",
+          "frame" : "{{195, 254}, {150, 32}}",
+          "uuid" : "3FD0E46A-1E10-43F3-A6EB-4CD2DDE80720"
+        },
+        "frame" : "{{197, 298}, {150, 32}}",
+        "selected" : false,
+        "nodes" : [
+
+        ]
+      },
+      {
+        "class" : "Button",
+        "attributes" : {
+          "font_size" : 15,
+          "title" : "Mother Teresa High School",
+          "name" : "mother_teresa_button",
+          "action" : "mother_teresa_touch_up_inside",
+          "class" : "Button",
+          "frame" : "{{230, 254}, {80, 32}}",
+          "uuid" : "65DDA3BA-41E6-410C-9139-5C64CA604A4F"
+        },
+        "frame" : "{{160, 34}, {223, 32}}",
+        "selected" : false,
+        "nodes" : [
+
+        ]
+      },
+      {
+        "class" : "Button",
+        "attributes" : {
+          "font_size" : 15,
+          "title" : "St. Joseph High School",
+          "name" : "st_joseph_button",
+          "action" : "st_joseph_touch_up_inside",
+          "class" : "Button",
+          "frame" : "{{230, 254}, {80, 32}}",
+          "uuid" : "28163DCF-A327-4ED8-AD2E-2191AEFC13BD"
+        },
+        "frame" : "{{160, 95}, {223, 32}}",
+        "selected" : false,
+        "nodes" : [
+
+        ]
+      },
+      {
+        "class" : "Button",
+        "attributes" : {
+          "font_size" : 15,
+          "title" : "Longfields Davidson Heights Secondary School",
+          "name" : "longfields_davidson_button",
+          "action" : "longfields_davidson_touch_up_inside",
+          "class" : "Button",
+          "frame" : "{{230, 254}, {80, 32}}",
+          "uuid" : "06701727-5989-4054-BA9E-FFC0F5A299F2"
+        },
+        "frame" : "{{91, 159}, {361, 32}}",
+        "selected" : false,
+        "nodes" : [
+
+        ]
+      }
+    ]
+  }
+]
